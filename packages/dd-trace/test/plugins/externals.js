@@ -384,6 +384,12 @@ module.exports = {
       versions: ['1.15.0'],
     },
   ],
+  http: [
+    {
+      name: 'axios',
+      versions: ['>=1.0.0'],
+    },
+  ],
   knex: [
     {
       name: 'mysql',
